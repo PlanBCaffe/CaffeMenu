@@ -1,1 +1,2 @@
-# Online menu for a coffee bar.
+# Welcome
+## This is an online coffee bar menu
