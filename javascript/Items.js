@@ -170,52 +170,10 @@ const nonAlhoholic = [
     price: "50.00",
   },
   {
-    imgSrc: "../images/Sodas/PepsiZero.png",
-    mkTitle: "пепси зеро",
-    enTitle: "pepsi zero",
-    price: "50.00",
-  },
-  {
     imgSrc: "../images/Sodas/Gazoza.png",
     mkTitle: "газоза",
     enTitle: "gazoza",
     price: "50.00",
-  },
-  {
-    imgSrc: "../images/Sodas/7up.png",
-    mkTitle: "севен ап",
-    enTitle: "seven up",
-    price: "50.00",
-  },
-  {
-    imgSrc: "../images/Sodas/Mirinda.png",
-    mkTitle: "миринда",
-    enTitle: "mirinda",
-    price: "50.00",
-  },
-  {
-    imgSrc: "../images/Sodas/Cockta.png",
-    mkTitle: "кокта",
-    enTitle: "cocta",
-    price: "60.00",
-  },
-  {
-    imgSrc: "../images/Sodas/PellegrinoKalinka.png",
-    mkTitle: "сан пелегрино калинка - портокал",
-    enTitle: "san pellegrino melograno & arancia",
-    price: "90.00",
-  },
-  {
-    imgSrc: "../images/Sodas/PellegrinoMenta.png",
-    mkTitle: "сан пелегрино лимон - мента",
-    enTitle: "san pellegrino limone & menta",
-    price: "90.00",
-  },
-  {
-    imgSrc: "../images/Sodas/PellegrinoLimon.png",
-    mkTitle: "сан пелегрино лимоната",
-    enTitle: "san pellegrino limonata",
-    price: "90.00",
   },
   {
     imgSrc: "../images/Sodas/RedBull.png",
@@ -340,18 +298,6 @@ const beers = [
     mkTitle: "туборг",
     enTitle: "tuborg",
     price: "100.00",
-  },
-  {
-    imgSrc: "../images/Beer/mugBig.png",
-    mkTitle: "скопско кригла (0.5l)",
-    enTitle: "skopsko mug",
-    price: "100.00",
-  },
-  {
-    imgSrc: "../images/Beer/mugSmall.png",
-    mkTitle: "скопско кригла (0.33l)",
-    enTitle: "skopsko small mug",
-    price: "90.00",
   },
 ];
 const liquors = [
